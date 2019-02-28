@@ -4,4 +4,4 @@
 
 install flask
 
-`FLASP_APP=otter.py flask run` 
+`FLASP_APP=ottter.py flask run` 
