@@ -1,6 +1,6 @@
 # mock_ottter
 
-Mocks the response of services running the IFTTT API based on the query path alone. 
+Mocks the response of services running the IFTTT API based on the path alone. 
 
 ## run: 
 
