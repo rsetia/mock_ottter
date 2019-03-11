@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "EnteredOrExited": "entered",
+            "Latitude": 37.78392950361181,
+            "Longitude": -122.4086595,
+            "Radius": 316.2006842104609,
+            "OccurredAt": "2019-02-14T20:12:41-08:00",
+            "Address": "923 Market St, San Francisco, CA 94103, USA",
+            "LocationMapImageUrl": "http://maps.google.com/maps/api/staticmap?center=37.78392950361181,-122.4086595&zoom=17&size=640x640&scale=1&maptype=roadmap&sensor=false&markers=color:red%7C37.78392950361181,-122.4086595",
+            "LocationMapUrl": "https://maps.google.com/?q=37.78392950361181,-122.4086595&z=17",
+            "meta": {
+                "id": 671706313,
+                "timestamp": 1550203961
+            }
+        },
+        {
+            "EnteredOrExited": "exited",
+            "Latitude": 37.78392950361181,
+            "Longitude": -122.4086595,
+            "Radius": 316.2006842104609,
+            "OccurredAt": "2019-02-14T20:17:36-08:00",
+            "Address": "923 Market St, San Francisco, CA 94103, USA",
+            "LocationMapImageUrl": "http://maps.google.com/maps/api/staticmap?center=37.78392950361181,-122.4086595&zoom=17&size=640x640&scale=1&maptype=roadmap&sensor=false&markers=color:red%7C37.78392950361181,-122.4086595",
+            "LocationMapUrl": "https://maps.google.com/?q=37.78392950361181,-122.4086595&z=17",
+            "meta": {
+                "id": 671708089,
+                "timestamp": 1550204256
+            }
+        }
+    ]
+}
