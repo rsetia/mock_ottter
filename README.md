@@ -4,9 +4,9 @@ Mocks the response of services running the IFTTT API based on the query path alo
 
 ## run: 
 
-install flask
+docker build -t mock-ottter .
 
-`FLASP_APP=ottter.py flask run` 
+docker run -it --rm --name mock-ottter -p 5000:5000  mock-ottter
 
 ## examples: 
 
