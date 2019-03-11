@@ -11,7 +11,7 @@ docker build -t mock-ottter .
 
 Run image:
 ```
-docker run -it --rm --name mock-ottter -p 5000:5000  mock-ottter
+docker run -it --rm --name mock-ottter -p 5000:5000 mock-ottter
 ```
 ## examples: 
 
